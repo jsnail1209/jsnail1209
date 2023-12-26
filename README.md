@@ -25,13 +25,34 @@
     <td>인하대 동아리 홍보 영상 제작</td>
     <td>JavaScript/Processing</td>
   </tr>
+  
   <tr>
-    <td rowspan="2">2022년</td>
-    <td rowspan="2">JavaScript</td>
+    <td rowspan="3">2022년</td>
+    <td rowspan="3">JavaScript</td>
     <td colspan="3">Unity</td>
   </tr>
   <tr>
     <td colspan="3">Java</td>
+  </tr>
+  <tr>
+    <td>SQL</td>
+    <td>컴활 1급 필기 합격</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="3">2023년</td>
+    <td colspan="4">Unity</td>
+  </tr>
+  <tr>
+    <td>컴활 1급 실기 준비</td>
+    <td colspan="3">Android Studio(Java)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>JSP</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
