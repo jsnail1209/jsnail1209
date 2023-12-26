@@ -2,9 +2,10 @@
 
 <table>
   <tr>
-    <th>제목</th>
-    <th>제목</th>
-    <th>제목</th>
+    <th>겨울방학</th>
+    <th>1학기</th>
+    <th>여름방학</th></th>
+    <th>2학기</th>
   </tr>
   <tr>
     <td>내용</td>
