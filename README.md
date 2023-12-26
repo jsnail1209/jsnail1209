@@ -19,11 +19,14 @@
     <td colspan="2"></td>
   </tr>
   <tr>
-    <td>2021년</td>
-    <td></td>
-    <td></td>
-    <td><a href = "https://www.youtube.com/watch?v=Oi94XjuaO_E" target="_blank">인하대 동아리 홍보 영상 제작</a></td>
-    <td>JavaScript/Processing</td>
+    <td rowspan="2">2021년</td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"><a href = "https://www.youtube.com/watch?v=Oi94XjuaO_E" target="_blank">인하대 동아리 홍보 영상 제작</a></td>
+    <td>JavaScript</td>
+  </tr>
+  <tr>
+    <td>Processing</td>
   </tr>
   
   <tr>
