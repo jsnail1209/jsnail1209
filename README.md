@@ -18,5 +18,12 @@
     <td>HTML5, CSS</td>
     <td colspan="2"></td>
   </tr>
+    <tr>
+    <td>2021년</td>
+    <td></td>
+    <td></td>
+    <td>인하대 동아리 홍보 영상 제작</td>
+    <td>JavaScript/Processing</td>
+  </tr>
 </table>
 
