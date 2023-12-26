@@ -13,9 +13,10 @@
     <td colspan="4">앱스튜디오(코딩 동아리) 동아리 홍보 사이트 운영</td>
   </tr>
   <tr>
-    <td>내용</td>
-    <td>내용</td>
-    <td>내용</td>
+    <td>2020년</td>
+    <td>운전면허 2종 취득</td>
+    <td>HTML5, CSS</td>
+    <td colspan="2"></td>
   </tr>
 </table>
 
