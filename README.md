@@ -56,5 +56,3 @@
   </tr>
 </table>
 
-<a href="https://www.naver.com" target = "_blank">abc</a>
-
