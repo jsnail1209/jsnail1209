@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>고등학교</td>
-    <td colspan="4"><a href = "https://www.naver.com" target-"_blank">앱스튜디오(코딩 동아리) 동아리 홍보 사이트 운영</td>
+    <td colspan="4"><a href = "https://www.naver.com" target-"_blank">앱스튜디오(코딩 동아리) 동아리 홍보 사이트 운영</a></td>
   </tr>
   <tr>
     <td>2020년</td>
