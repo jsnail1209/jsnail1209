@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>고등학교</td>
-    <td colspan="4"><a href = "https://www.naver.com" target="_blank">앱스튜디오(코딩 동아리) 동아리 홍보 사이트 운영</a></td>
+    <td colspan="4">앱스튜디오(코딩 동아리) 동아리 홍보 사이트 운영</td>
   </tr>
   <tr>
     <td>2020년</td>
@@ -22,7 +22,7 @@
     <td>2021년</td>
     <td></td>
     <td></td>
-    <td>인하대 동아리 홍보 영상 제작</td>
+    <td><a href = "https://www.youtube.com/watch?v=Oi94XjuaO_E" target="_blank">인하대 동아리 홍보 영상 제작</a></td>
     <td>JavaScript/Processing</td>
   </tr>
   
