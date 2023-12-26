@@ -15,7 +15,7 @@
   <tr>
     <td>2020년</td>
     <td>운전면허 2종 취득</td>
-    <td>HTML5, CSS</td>
+    <td><a href = "https://github.com/jsnail1209/front_end" target="_blank">HTML5/CSS</a></td>
     <td colspan="2"></td>
   </tr>
   <tr>
