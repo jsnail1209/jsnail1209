@@ -23,7 +23,7 @@
     <td rowspan="2"></td>
     <td rowspan="2"></td>
     <td rowspan="2"><a href = "https://www.youtube.com/watch?v=Oi94XjuaO_E" target="_blank">인하대 동아리 홍보 영상 제작</a></td>
-    <td>JavaScript</td>
+    <td><a href = "https://github.com/jsnail1209/bestoutput" target="_blank">JavaScript</a</td>
   </tr>
   <tr>
     <td><a href = "https://github.com/jsnail1209/processing" target="_blank">Processing</a></td>
