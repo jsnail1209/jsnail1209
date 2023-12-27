@@ -27,8 +27,7 @@
   </tr>
   <tr>
     <td rowspan="2">2021년</td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
+    <td rowspan="2" colspan="2"><a href = "https://www.youtube.com/watch?v=nqQOLxQCYNM" target="_blank">AfterEffect: 에어택시 홍보 영상 제작</a></td>
     <td rowspan="2"><a href = "https://www.youtube.com/watch?v=Oi94XjuaO_E" target="_blank">인하대 동아리 홍보 영상 제작</a></td>
     <td><a href = "https://github.com/jsnail1209/bestoutput" target="_blank">JavaScript</a</td>
   </tr>
