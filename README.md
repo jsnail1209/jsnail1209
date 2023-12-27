@@ -46,7 +46,7 @@
     
   </tr>
   <tr>
-    <td>SQL</td>
+    <td><a href = "https://github.com/jsnail1209/sqlpet" target="_blank">SQL</a></td>
     <td>컴활 1급 필기 합격</td>
     <td></td>
   </tr>
