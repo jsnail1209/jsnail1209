@@ -1,5 +1,4 @@
 ### 포트폴리오 정리 👋
-
 <table>
   <tr>
     <th></th>
@@ -53,7 +52,7 @@
 
   <tr>
     <td rowspan="3">2023년</td>
-    <td colspan="4">Unity: 경기아트센터 메타버스 프로젝트</td>
+    <td colspan="4"><a href = "https://github.com/jsnail1209/wunderkammer" target="_blank">Unity: 경기아트센터 메타버스 프로젝트</a></td>
   </tr>
   <tr>
     <td>컴활 1급 실기 준비</td>
