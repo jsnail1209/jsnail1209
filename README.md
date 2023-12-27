@@ -53,7 +53,7 @@
 
   <tr>
     <td rowspan="3">2023년</td>
-    <td colspan="4">Unity(경기아트센터 메타버스 프로젝트)</td>
+    <td colspan="4">Unity: 경기아트센터 메타버스 프로젝트</td>
   </tr>
   <tr>
     <td>컴활 1급 실기 준비</td>
