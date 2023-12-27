@@ -42,7 +42,7 @@
     <td colspan="3">Unity</td>
   </tr>
   <tr>
-    <td colspan="3"><a href = "https://github.com/jsnail1209/javashop" target="_blank">JAVA</a></td>
+    <td colspan="3"><a href = "https://github.com/jsnail1209/javashop" target="_blank">Java</a></td>
     
   </tr>
   <tr>
