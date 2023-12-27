@@ -38,7 +38,7 @@
   
   <tr>
     <td rowspan="3">2022년</td>
-    <td rowspan="3">JavaScript</td>
+    <td rowspan="3"><a href = "https://github.com/jsnail1209/javaScriptTheory" target="_blank">JavaScript</a></td>
     <td colspan="3"><a href = "https://github.com/jsnail1209/shootingCraft" target="_blank">Unity</a></td>
   </tr>
   <tr>
