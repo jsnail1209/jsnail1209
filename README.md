@@ -1,4 +1,5 @@
 ### 포트폴리오 정리 👋
+
 <table>
   <tr>
     <th></th>
@@ -23,7 +24,7 @@
     <td>2020년</td>
     <td>운전면허 2종 취득</td>
     <td><a href = "https://github.com/jsnail1209/front_end" target="_blank">HTML5/CSS</a></td>
-    <td colspan="2"></td>
+    <td colspan="2"><a href = "https://github.com/jsnail1209/logic" target="_blank">논리학 공부</a></td>
   </tr>
   <tr>
     <td rowspan="2">2021년</td>
