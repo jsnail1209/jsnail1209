@@ -39,7 +39,7 @@
   <tr>
     <td rowspan="3">2022년</td>
     <td rowspan="3">JavaScript</td>
-    <td colspan="3">Unity</td>
+    <td colspan="3"><a href = "https://github.com/jsnail1209/shootingCraft" target="_blank">Unity</a></td>
   </tr>
   <tr>
     <td colspan="3"><a href = "https://github.com/jsnail1209/javashop" target="_blank">Java</a></td>
