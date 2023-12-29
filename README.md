@@ -39,14 +39,14 @@
   <tr>
     <td rowspan="3">2022년</td>
     <td rowspan="3"><a href = "https://github.com/jsnail1209/javaScriptTheory" target="_blank">JavaScript</a></td>
-    <td colspan="1"><a href = "https://github.com/jsnail1209/shootingCraft" target="_blank">Unity</a></td>
+    <td><a href = "https://github.com/jsnail1209/shootingCraft" target="_blank">Unity</a></td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td><a href = "https://github.com/jsnail1209/sqlpet" target="_blank">SQL</a></td>
     <td>컴활 1급 필기 합격</td>
-    <td colspan="1"><a href = "https://github.com/jsnail1209/javashop" target="_blank">Java</a></td>
+    <td><a href = "https://github.com/jsnail1209/javashop" target="_blank">Java</a></td>
   </tr>
 
   <tr>
