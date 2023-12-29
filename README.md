@@ -55,9 +55,6 @@
   </tr>
   <tr>
     <td>컴활 1급 실기 준비</td>
-  </tr>
-  <tr>
-    <td></td>
     <td><a href = "https://github.com/jsnail1209/back_end" target="_blank">JSP</a></td>
     <td align="center">Android Studio(Java)</td>
   </tr>
