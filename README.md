@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>JSP</td>
+    <td><a href = "https://github.com/jsnail1209/back_end" target="_blank">JSP</a></td>
     <td></td>
     <td></td>
   </tr>
