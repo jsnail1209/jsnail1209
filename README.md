@@ -37,10 +37,10 @@
   </tr>
   
   <tr>
-    <td rowspan="2">2022년</td>
-    <td rowspan="2"><a href = "https://github.com/jsnail1209/javaScriptTheory" target="_blank">JavaScript</a></td>
+    <td rowspan="3">2022년</td>
+    <td rowspan="3"><a href = "https://github.com/jsnail1209/javaScriptTheory" target="_blank">JavaScript</a></td>
     <td><a href = "https://github.com/jsnail1209/shootingCraft" target="_blank">Unity</a></td>
-    <td rowspan="2">컴활 1급 필기 합격</td>
+    <td rowspan="3">컴활 1급 필기 합격</td>
   </tr>
   <tr>
   </tr>
