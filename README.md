@@ -59,7 +59,6 @@
   <tr>
     <td></td>
     <td><a href = "https://github.com/jsnail1209/back_end" target="_blank">JSP</a></td>
-    <td></td>
     <td align="center">Android Studio(Java)</td>
   </tr>
 </table>
