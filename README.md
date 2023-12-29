@@ -33,7 +33,7 @@
     <td align="center"><a href = "https://github.com/jsnail1209/bestoutput" target="_blank">JavaScript</a</td>
   </tr>
   <tr>
-    <td><a href = "https://github.com/jsnail1209/processing" target="_blank">Processing</a></td>
+    <td align="center"><a href = "https://github.com/jsnail1209/processing" target="_blank">Processing</a></td>
   </tr>
   
   <tr>
