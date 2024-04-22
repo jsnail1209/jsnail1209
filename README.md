@@ -20,12 +20,14 @@
     <td>고등학교</td>
     <td colspan="4" align="center">앱스튜디오(코딩 동아리) 동아리 홍보 사이트 운영</td>
   </tr>
+  
   <tr>
     <td>2020년</td>
     <td>운전면허 2종 취득</td>
     <td><a href = "https://github.com/jsnail1209/front_end" target="_blank">HTML5/CSS</a></td>
     <td colspan="2" align="center"><a href = "https://github.com/jsnail1209/logic" target="_blank">논리학 공부</a></td>
   </tr>
+  
   <tr>
     <td rowspan="2">2021년</td>
     <td rowspan="2" colspan="2"><a href = "https://www.youtube.com/watch?v=nqQOLxQCYNM" target="_blank">AfterEffect: 에어택시 홍보 영상 제작</a></td>
@@ -50,7 +52,7 @@
   </tr>
 
   <tr>
-    <td rowspan="3">2023년</td>
+    <td rowspan="2">2023년</td>
     <td colspan="4" align="center"><a href = "https://github.com/jsnail1209/wunderkammer" target="_blank">Unity: 경기아트센터 메타버스 프로젝트</a></td>
   </tr>
   <tr>
@@ -58,6 +60,12 @@
     <td align="center"><a href = "https://github.com/jsnail1209/back_end" target="_blank">JSP</a></td>
     <td></td>
     <td align="center"><a href = "https://github.com/jsnail1209/AndroidStudio" target="_blank">Android Studio(Java)</a></td>
+  </tr>
+  
+  <tr>
+    <td>2024년</td>
+    <td colspan="2" align="center">컴활 1급 합격</td>
+    <td colspan="2" align="center"></td>
   </tr>
 </table>
 
