@@ -10,7 +10,7 @@
   </tr>
   
   <tr>
-    <td rowspan="11">대학교</td>
+    <td rowspan="10">대학교</td>
     <td rowspan="2">2020년</td>
     <td></td>
     <td>운전면허 2종 취득</td>
@@ -39,13 +39,7 @@
   </tr>
   
   <tr>
-    <td rowspan="4">2022년</td>
-    <td></td>
-    <td></td>
-    <td><a href = "https://github.com/jsnail1209/javaScriptTheory" target="_blank">JavaScript</a></td>
-    <td></td>
-  </tr>
-  <tr>
+    <td rowspan="3">2022년</td>
     <td></td>
     <td></td>
     <td><a href = "https://github.com/jsnail1209/shootingCraft" target="_blank">Unity</a></td>
@@ -87,7 +81,7 @@
   <tr>
     <td rowspan="4">직장</td>
     <td>2024년</td>
-    <td>케어메디 입사</td>
+    <td>케어메디: 의료 소프트웨어 검증</td>
     <td>컴활 1급 취득</td>
     <td></td>
     <td></td>
